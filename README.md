@@ -1,3 +1,5 @@
-Kotlin 学习笔记
+### Kotlin 学习笔记
 
-https://kotlinlang.org/docs/reference/
+官方网站：https://kotlinlang.org/docs/reference/
+
+中文网站：https://www.kotlincn.net/docs/reference/
